@@ -6,3 +6,8 @@ DBSAN sklearn:- https://scikit-learn.org/stable/modules/generated/sklearn.cluste
 Cluster:- 
 
 ![cluster_image](https://user-images.githubusercontent.com/98344033/200740764-53d3cd0e-fee3-45c6-88dc-01c2cb4bc683.png)
+
+Comparision of clusters over different algo:- 
+
+
+![comparison of clusters](https://user-images.githubusercontent.com/98344033/200741729-f4615378-0809-4406-853c-b977b02197ad.png)
